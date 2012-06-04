@@ -5,7 +5,7 @@ With StatsIgniter can scan your application and count them in an easy and simple
 
 IMPORTANT NOTES
 =================
-You need to edit /application/config/autoload.php and load 'url' and 'file' helpers.
+You need to edit /application/config/autoload.php and load 'url' and 'file' helpers and 'StatsIgniter' library.
 
 IMPORTANT FILES
 ================
