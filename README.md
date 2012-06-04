@@ -1,11 +1,16 @@
-statsigniter
+STATSIGNITER
 ============
 How many lines of code is your project? 
 With StatsIgniter can scan your application and count them in an easy and simple way.
 
+Demo:
+http://www.destinomultimedia.com/scripts/statsigniter
+
 IMPORTANT NOTES
 =================
 You need to edit /application/config/autoload.php and load 'url' and 'file' helpers and 'StatsIgniter' library.
+
+Edit /application/controllers/stats.php to config library options.
 
 IMPORTANT FILES
 ================
