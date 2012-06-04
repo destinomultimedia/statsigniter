@@ -1,0 +1,27 @@
+body{
+    font-family: "Century Gothic", Verdana, Arial;
+    font-size: 12px;
+}
+
+#logo_dm{
+    float: left;  
+    display: inline-block;
+    width: 260px;
+    height: 82px;   
+}
+
+#logo_si{
+    float: right;  
+    display: inline-block;
+    width: 260px;
+    height: 82px;   
+}
+
+.clear{
+    height: 10px;
+    clear: both;    
+}
+
+#tab-container{
+    clear:both;
+}
