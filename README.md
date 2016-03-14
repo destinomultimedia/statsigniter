@@ -1,10 +1,10 @@
 STATSIGNITER
 ============
 How many lines of code is your project? 
-With StatsIgniter can scan your application and count them in an easy and simple way.
+With StatsIgniter you can scan your application and count them in an easy and simple way.
 
 Demo:
-http://www.destinomultimedia.com/scripts/statsigniter
+http://www.destinomultimedia.com/demos/statsigniter
 
 IMPORTANT NOTES
 =================
